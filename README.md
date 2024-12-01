@@ -21,6 +21,7 @@ Improve customer satisfaction by addressing poor and average ratings.
 Encourage digital payments through discounts or cashback offers.
 
 Contact
+
 For questions or feedback, reach out via.
-LinkedIn -[www.linkedin.com/in/bhushan-dhawas-0ab2a1315](url)
+LinkedIn - Bhushan Dhawas 
 Email - bdhawas0016@gmail.com
