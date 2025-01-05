@@ -1,6 +1,6 @@
 # Reliance-Digital-Power-BI-project 📊
 
-#Overview
+##Overview
 
 This repository contains the Power BI dashboard project for analyzing mobile sales data. The dashboard provides a comprehensive view of sales performance, including insights into sales trends, customer ratings, payment methods, and regional performance. It also includes a comparative analysis with the previous year's performance.
 
